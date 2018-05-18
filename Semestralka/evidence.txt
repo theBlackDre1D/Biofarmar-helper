@@ -1,0 +1,142 @@
+Firm evidence from 1.1.2000 to 1. 1. 2000
+====================================================================
+Stock:
+Potatoes: 0
+Oil: 0
+Flavors: 0
+====================================================================
+Vehicles: 
+SPZ	First day	| total shipment price | Type | 
+DT123BA | 1. 1. 2000 | 0 | Chips vehicle
+DT456BA | 1. 1. 2000 | 0 | Chips vehicle
+DT789BA | 1. 1. 2000 | 0 | Fries vehicle
+DT101BA | 1. 1. 2000 | 0 | Fries vehicle
+====================================================================
+Biofarmars: 
+Name	products
+Jozo | products:  | Potatoes 
+Pavol | products:  | Oil 
+Stefan | products:  | Flavors 
+Albert | products:  | Potatoes 
+Milos | products:  | Oil 
+Eugen | products:  | Flavors 
+====================================================================
+Customers: 
+Name	| Address	
+MICHAELA 3
+NATALIA 1
+RADKA 4
+MINA 7
+ANNA 5
+MIRKA 3
+LUBKA 2
+====================================================================
+Orders: 
+ID | Price(eur) | Quantity(kg) | Name | Address | Order date | Product | Delivered	| Dispatched | Denied | Canceled | Firm profit | 
+1 | 6 | 300 | MICHAELA | 3 | 1. 1. 2000 | Fries | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+2 | 6 | 800 | RADKA | 4 | 1. 1. 2000 | Fries | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+3 | 6 | 2000 | MIRKA | 3 | 1. 1. 2000 | Fries | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+4 | 8 | 340 | MINA | 7 | 1. 1. 2000 | Chips | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+5 | 8 | 700 | MINA | 7 | 1. 1. 2000 | Chips | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+6 | 8 | 2000 | MIRKA | 3 | 1. 1. 2000 | Chips | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+7 | 8 | 1200 | RADKA | 4 | 1. 1. 2000 | Chips | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+8 | 6 | 1800 | LUBKA | 2 | 1. 1. 2000 | Fries | Not delivered | Not dispatched |  Not denied | Not canceled |  0
+====================================================================
+Orders from biofarmars: 
+Name	| Price | Quantity | Purchase date | Semiproduct type
+Jozo | 2 | 2000 | 1. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 1. 1. 2000 | Oil
+Stefan | 2 | 40 | 1. 1. 2000 | Flavors
+Albert | 1 | 500 | 1. 1. 2000 | Potatoes
+Milos | 2 | 750 | 1. 1. 2000 | Oil
+Eugen | 2 | 48 | 1. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 2. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 2. 1. 2000 | Oil
+Stefan | 2 | 40 | 2. 1. 2000 | Flavors
+Albert | 1 | 500 | 2. 1. 2000 | Potatoes
+Milos | 2 | 750 | 2. 1. 2000 | Oil
+Eugen | 2 | 48 | 2. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 3. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 3. 1. 2000 | Oil
+Stefan | 2 | 40 | 3. 1. 2000 | Flavors
+Albert | 1 | 500 | 4. 1. 2000 | Potatoes
+Milos | 2 | 750 | 4. 1. 2000 | Oil
+Eugen | 2 | 48 | 4. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 5. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 5. 1. 2000 | Oil
+Stefan | 2 | 40 | 5. 1. 2000 | Flavors
+Albert | 1 | 500 | 6. 1. 2000 | Potatoes
+Milos | 2 | 750 | 6. 1. 2000 | Oil
+Eugen | 2 | 48 | 6. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 7. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 7. 1. 2000 | Oil
+Stefan | 2 | 40 | 7. 1. 2000 | Flavors
+Albert | 1 | 500 | 8. 1. 2000 | Potatoes
+Milos | 2 | 750 | 8. 1. 2000 | Oil
+Eugen | 2 | 48 | 8. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 8. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 9. 1. 2000 | Oil
+Stefan | 2 | 40 | 9. 1. 2000 | Flavors
+Albert | 1 | 500 | 9. 1. 2000 | Potatoes
+Milos | 2 | 750 | 10. 1. 2000 | Oil
+Eugen | 2 | 48 | 10. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 10. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 11. 1. 2000 | Oil
+Stefan | 2 | 40 | 11. 1. 2000 | Flavors
+Albert | 1 | 500 | 11. 1. 2000 | Potatoes
+Milos | 2 | 750 | 12. 1. 2000 | Oil
+Eugen | 2 | 48 | 12. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 12. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 13. 1. 2000 | Oil
+Stefan | 2 | 40 | 13. 1. 2000 | Flavors
+Albert | 1 | 500 | 13. 1. 2000 | Potatoes
+Milos | 2 | 750 | 14. 1. 2000 | Oil
+Eugen | 2 | 48 | 14. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 15. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 15. 1. 2000 | Oil
+Stefan | 2 | 40 | 15. 1. 2000 | Flavors
+Albert | 1 | 500 | 16. 1. 2000 | Potatoes
+Milos | 2 | 750 | 16. 1. 2000 | Oil
+Eugen | 2 | 48 | 16. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 17. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 17. 1. 2000 | Oil
+Stefan | 2 | 40 | 17. 1. 2000 | Flavors
+Albert | 1 | 500 | 18. 1. 2000 | Potatoes
+Milos | 2 | 750 | 18. 1. 2000 | Oil
+Eugen | 2 | 48 | 18. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 19. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 19. 1. 2000 | Oil
+Stefan | 2 | 40 | 19. 1. 2000 | Flavors
+Albert | 1 | 500 | 20. 1. 2000 | Potatoes
+Milos | 2 | 750 | 20. 1. 2000 | Oil
+Eugen | 2 | 48 | 20. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 21. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 21. 1. 2000 | Oil
+Stefan | 2 | 40 | 21. 1. 2000 | Flavors
+Albert | 1 | 500 | 22. 1. 2000 | Potatoes
+Milos | 2 | 750 | 22. 1. 2000 | Oil
+Eugen | 2 | 48 | 22. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 23. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 23. 1. 2000 | Oil
+Stefan | 2 | 40 | 23. 1. 2000 | Flavors
+Albert | 1 | 500 | 24. 1. 2000 | Potatoes
+Milos | 2 | 750 | 24. 1. 2000 | Oil
+Eugen | 2 | 48 | 24. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 25. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 25. 1. 2000 | Oil
+Stefan | 2 | 40 | 25. 1. 2000 | Flavors
+Albert | 1 | 500 | 26. 1. 2000 | Potatoes
+Milos | 2 | 750 | 26. 1. 2000 | Oil
+Eugen | 2 | 48 | 26. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 27. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 27. 1. 2000 | Oil
+Stefan | 2 | 40 | 27. 1. 2000 | Flavors
+Albert | 1 | 500 | 28. 1. 2000 | Potatoes
+Milos | 2 | 750 | 28. 1. 2000 | Oil
+Eugen | 2 | 48 | 28. 1. 2000 | Flavors
+Jozo | 2 | 2000 | 29. 1. 2000 | Potatoes
+Pavol | 3 | 800 | 29. 1. 2000 | Oil
+Stefan | 2 | 40 | 29. 1. 2000 | Flavors
+Albert | 1 | 500 | 30. 1. 2000 | Potatoes
+Milos | 2 | 750 | 30. 1. 2000 | Oil
+Eugen | 2 | 48 | 30. 1. 2000 | Flavors
